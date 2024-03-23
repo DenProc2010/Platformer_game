@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Platform
+  - Ground
+  - Hang_Point
   layers:
   - Default
   - TransparentFX
