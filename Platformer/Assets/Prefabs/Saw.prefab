@@ -25,7 +25,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3498412155584488751, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 3498412155584488751, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}
       propertyPath: m_LocalPosition.y
@@ -87,6 +87,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Saw
       objectReference: {fileID: 0}
+    - target: {fileID: 6590656615951864024, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 6590656615951864024, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.405
+      objectReference: {fileID: 0}
     - target: {fileID: 6778557322609833432, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}
       propertyPath: m_Size.x
       value: 0.5
@@ -102,6 +110,12 @@ PrefabInstance:
     - target: {fileID: 6778557322609833432, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8663436902009461507, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":3.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Direction","value":{"$content":1,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8641710887592518767, guid: 0c574494591fd4d4388ef2cfc72624a1, type: 3}

@@ -200,7 +200,7 @@ GameObject:
   - component: {fileID: 1891349181489886775}
   - component: {fileID: 2507498321917758881}
   - component: {fileID: 2410990008876354356}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Ground_Checker
   m_TagString: Untagged
   m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
