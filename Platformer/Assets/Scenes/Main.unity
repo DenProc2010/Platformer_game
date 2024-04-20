@@ -4119,6 +4119,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 075cbbaafc209384fb5c84a77aef8230, type: 3}
+--- !u!1 &1381876149 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4665652907713611367, guid: 1f2c723aff714f744ba346642563cf26, type: 3}
+  m_PrefabInstance: {fileID: 8090468994987100898}
+  m_PrefabAsset: {fileID: 0}
+--- !u!58 &1381876154
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1381876149}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.00016832352, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.250278
 --- !u!1 &1452407574 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6137494019338290277, guid: baa3b078e2d8ee64cb50c594a742f417, type: 3}
@@ -5074,6 +5095,14 @@ PrefabInstance:
     - target: {fileID: 4665652907713611367, guid: 1f2c723aff714f744ba346642563cf26, type: 3}
       propertyPath: m_Name
       value: Saw
+      objectReference: {fileID: 0}
+    - target: {fileID: 5449139168748350733, guid: 1f2c723aff714f744ba346642563cf26, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5449139168748350733, guid: 1f2c723aff714f744ba346642563cf26, type: 3}
+      propertyPath: m_Constraints
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f2c723aff714f744ba346642563cf26, type: 3}
