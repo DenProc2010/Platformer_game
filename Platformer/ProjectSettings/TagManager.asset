@@ -8,6 +8,8 @@ TagManager:
   - Platform
   - Ground
   - Hang_Point
+  - Ball
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -18,7 +20,7 @@ TagManager:
   - Platforms
   - Ground_Checker
   - Enemies
-  - 
+  - Ball
   - 
   - 
   - 
