@@ -10,6 +10,7 @@ TagManager:
   - Hang_Point
   - Ball
   - Enemy
+  - Coin
   layers:
   - Default
   - TransparentFX
